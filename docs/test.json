@@ -1,0 +1,34 @@
+{
+    "哦bilibili": {
+        "番剧": {
+            "author": "DIYgod",
+            "example": "/bilibili/bangumi/media/9192",
+            "path": "/bilibili/bangumi/media/:mediaid",
+            "paramsDesc": "番剧媒体 id, 番剧主页 URL 中获取"
+        }
+    },
+    "啊bilibili": {
+        "番剧": {
+            "author": "DIYgod",
+            "example": "/bilibili/bangumi/media/9192",
+            "path": "/bilibili/bangumi/media/:mediaid",
+            "paramsDesc": "番剧媒体 id, 番剧主页 URL 中获取"
+        }
+    },
+    "bilibili": {
+        "番剧": {
+            "author": "DIYgod",
+            "example": "/bilibili/bangumi/media/9192",
+            "path": "/bilibili/bangumi/media/:mediaid",
+            "paramsDesc": "番剧媒体 id, 番剧主页 URL 中获取"
+        }
+    },
+    "2bilibili": {
+        "番剧": {
+            "author": "DIYgod",
+            "example": "/bilibili/bangumi/media/9192",
+            "path": "/bilibili/bangumi/media/:mediaid",
+            "paramsDesc": "番剧媒体 id, 番剧主页 URL 中获取"
+        }
+    }
+}
