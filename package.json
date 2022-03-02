@@ -104,7 +104,7 @@
     "opencc": "1.1.1",
     "parse-torrent": "9.1.0",
     "pidusage": "2.0.21",
-    "plist": "3.0.1",
+    "plist": "3.0.4",
     "puppeteer": "5.5.0",
     "query-string": "6.13.7",
     "redis": "3.0.2",
